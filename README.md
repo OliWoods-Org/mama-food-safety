@@ -57,7 +57,7 @@ We need nutritionists, food scientists, developers, and data contributors.
 ---
 
 <p align="center">
-  <strong>An <a href="https://oliwoodsfoundation.org">OliWoods Foundation</a> Project</strong>
+  <strong>An <a href="https://mama.oliwoods.ai/foundation">OliWoods Foundation</a> Project</strong>
   <br><em>Open-source AI tools for humanitarian and public good</em>
   <br><br>
   <sub>Built with <a href="https://mama.oliwoods.ai">MAMA</a> · Powered by <a href="https://cofounder.software">CoFounder</a><br>GPL-3.0 — Fork it. Deploy it. Eat cleaner.</sub>
