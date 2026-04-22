@@ -62,3 +62,19 @@ We need nutritionists, food scientists, developers, and data contributors.
   <br><br>
   <sub>Built with <a href="https://mama.oliwoods.ai">MAMA</a> · Powered by <a href="https://cofounder.software">CoFounder</a><br>GPL-3.0 — Fork it. Deploy it. Eat cleaner.</sub>
 </p>
+
+## Expanded Agents (v2)
+
+| Agent | Role |
+|-------|------|
+| **ProductGrader** | A-F grade via Open Food Facts + EU banned additive database |
+| **CleanSwapper** | 3 alternatives per flagged product (cleanest, budget, local) |
+| **BrandUnmasker** | Corporate ownership, lobbying spend, controversies |
+| **RecallRadar** | FDA recall monitoring with real-time alerts |
+| **ViralContent** | Toxic Tuesday, Brand Exposé Friday, Swap Saturday |
+| **LocalSourcing** | Farmers markets, CSAs, organic grocers near you |
+| **AllergenTracker** | Track allergens across products, cross-contamination warnings, restaurant allergen lookup |
+| **RestaurantGrader** | Grade restaurant chains on ingredient quality, sourcing, additives |
+| **ChildFoodSafety** | School lunch analysis, baby food contaminant check (heavy metals), kids snack grading |
+
+**9 agents. GPL-3.0. Free forever. Affiliate revenue funds the tools.**
